@@ -16,7 +16,7 @@
 
 # About
 
-This repository is where you can find all community instances listed on our [landing page](https://github.com/fosscord/fosscord-landingpage).
+This repository is where you can find all community instances listed on our [landing page](fosscord.com).
 
 The `instances.json` file is fetched by the landing page before deployment.
 
