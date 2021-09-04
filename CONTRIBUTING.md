@@ -1,7 +1,7 @@
 # How to submit your own Instance
 
 1. Fork the repository.
-2. Add a entry into the [`instances.json`](instances.json) file. Make sure to follow this template (the image key is **optionnal**):
+2. Add append the [`instances.json`](instances.json) file. Make sure to follow this template (the image key is **optional**):
 
 ```json
 {
