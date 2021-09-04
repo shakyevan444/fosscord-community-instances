@@ -2,7 +2,6 @@
     {
         "name":"fosscord.com",
         "url":"https://app.fosscord.com",
-        "image":"https://raw.githubusercontent.com/fosscord/fosscord/master/assets/logo/logo.svg",
         "description":"The offical fosscord instance hosted by its founders",
         "offical":true
     },
