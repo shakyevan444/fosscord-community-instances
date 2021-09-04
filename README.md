@@ -2,7 +2,7 @@
 A unofficial curated list of Fosscord instances!
 
 ## Contribute
-**Not written for now, see later.**
+*Not written for now, see later.*
 
 ## Instances
 
