@@ -2,17 +2,17 @@
     {
         "name": "Stilic on Fosscord",
         "url": "https://fosscord.stilic.ynh.fr",
-        "description": "The official instance of (Stilic)[https://github.com/Stilic]!",
+        "description": "The official instance of [Stilic](https://github.com/Stilic)!",
         "image": "https://github.com/stilic.png?size=50"
     },
     {
         "name": "BanTheNons",
         "url": "https://discord.banthenons.com",
-        "description": "Official instance of (BanTheNons)[https://github.com/BanTheNons]."
+        "description": "Official instance of [BanTheNons](https://github.com/BanTheNons)."
     },
     {
         "name": "FuflyPaladium",
         "url": "http://discord.fufly.xyz",
-        "description": "Official instance of (FuflyPaladium)[FuflyPaladium]."
+        "description": "Official instance of [FuflyPaladium](FuflyPaladium)."
     }
 ]
