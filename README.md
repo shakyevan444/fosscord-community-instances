@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Stilic/fosscord-instances)](https://github.com/Stilic/fosscord-instances/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Stilic/fosscord-instances)](https://github.com/Stilic/fosscord-instances/blob/main/LICENSE)
 
-A unofficial curated list of Fosscord instances!
+A unofficial curated list of public Fosscord instances.
 
 ## Contribute
 See the [contributing guide](CONTRIBUTING.md) for see how to help us correctly.
