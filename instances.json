@@ -1,8 +1,8 @@
 [
-    [
-        "Stilic",
-        "https://fosscord.stilic.ynh.fr",
-        "The official instance of Stilic!",
-        "https://github.com/stilic.png?size=50"
-    ]
+    {
+        "name": "Stilic",
+        "url": "https://fosscord.stilic.ynh.fr",
+        "description": "The official instance of Stilic!",
+        "image": "https://github.com/stilic.png?size=50"
+    }
 ]
