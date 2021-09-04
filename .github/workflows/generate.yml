@@ -3,6 +3,7 @@ name: Generate README
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -25,4 +26,4 @@ jobs:
       uses: EndBug/add-and-commit@v7
       with:
         add: ./README.md
-        message: 'Commit for generated README'
+        message: 'Commit for generated README (from GitHub Actions)'
