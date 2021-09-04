@@ -1,7 +1,7 @@
 # How to submit your own Instance
 
 1. Fork the repository.
-2. Add a entry into the [`instances.json`](instances.json) file. Make sure to follow this template
+2. Add a entry into the [`instances.json`](instances.json) file. Make sure to follow this template (the image key is **optionnal**):
 
 ```json
 {
@@ -12,4 +12,4 @@
 }
 ```
 
-3. create a PR with your changes.
+3. Create a PR with your changes.
