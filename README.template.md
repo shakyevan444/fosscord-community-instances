@@ -6,10 +6,6 @@ A unofficial curated list of Fosscord instances!
 
 ## Instances
 
-### [Stilic](https://fosscord.stilic.ynh.fr)
-![Stilic image](https://github.com/stilic.png?size=50)
-
-The official instance of Stilic!
-
+<% generated_content %>
 ## License
 This repository is licensed under the [MIT license](LICENSE).
