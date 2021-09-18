@@ -20,5 +20,17 @@
         "name": "FuflyPaladium",
         "url": "http://discord.fufly.xyz",
         "description": "Instance of FuflyPaladium"
-    }
+    },
+	{
+		"name": "Chris Chrome's Fosscord",
+		"url": "https://fc.home.chrischromeyt.com",
+		"description": "Instance of Chris Chrome",
+		"image": "https://github.com/ChrisChrome.png"
+	},
+	{
+		"name": "TheArcaneBrony",
+		"url": "https://fosscord.thearcanebrony.net",
+		"description": "Instance of TheArcaneBrony",
+		"image": "https://github.com/TheArcaneBrony.png"
+	}
 ]
