@@ -28,9 +28,9 @@
         "image": "https://github.com/ChrisChrome.png"
     },
     {
-	 "name": "TheArcaneBrony",
-	 "url": "https://fosscord.thearcanebrony.net",
-         "description": "Instance of TheArcaneBrony",
-	 "image": "https://github.com/TheArcaneBrony.png"
+        "name": "TheArcaneBrony",
+	"url": "https://fosscord.thearcanebrony.net",
+        "description": "Instance of TheArcaneBrony",
+	"image": "https://github.com/TheArcaneBrony.png"
     }
 ]
