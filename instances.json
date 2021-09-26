@@ -38,5 +38,10 @@
 	"url": "https://discord.anonchan.tk",
 	"description": "Instance of Rednd",
 	"image": "https://github.com/Rednd.png"
+    },
+    {
+	"name": "DairyWeb3638077's Fosscord",
+	"url": "https://nighthowler.tk",
+	"description": "Instance of DairyWeb3638077"
     }
 ]
