@@ -38,5 +38,11 @@
 	"url": "https://discord.anonchan.tk",
 	"description": "Instance of Rednd",
 	"image": "https://github.com/Rednd.png"
+    },
+    {
+	"name": "Nostalgicord",
+	"url": "https://fc.nostalgicord.featyre.xyz/",
+	"description": "Nostalgicord's official Fosscord instance",
+	"image": "https://github.com/Nostalgicord.png"
     }
 ]
