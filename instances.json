@@ -34,9 +34,9 @@
 	"image": "https://github.com/TheArcaneBrony.png"
     },
     {
-	"name": "Rednd's Fosscord",
-	"url": "https://discord.anonchan.tk",
-	"description": "Instance of Rednd",
+	"name": "Rednd's Fosscord Instance",
+	"url": "https://fosscord.anonchan.tk",
+	"description": "An Official Instance of Rednd",
 	"image": "https://github.com/Rednd.png"
     }
 ]
