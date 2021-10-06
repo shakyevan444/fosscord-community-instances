@@ -1,0 +1,25 @@
+{
+	"name": "@fosscord/community",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "npm run build && node dist/start",
+		"build": "npx tsc -b .",
+		"patch": "ts-patch install -s",
+		"postinstall": "npm run patch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"lambert-server": "^1.2.10",
+		"typeorm": "^0.2.38"
+	},
+	"devDependencies": {
+		"@types/node": "^16.10.2",
+		"dotenv": "^10.0.0",
+		"typescript": "^4.4.3"
+	}
+}
