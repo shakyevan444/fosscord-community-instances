@@ -9,9 +9,6 @@ export class CommunityServer extends Server {
 		promise = createConnection({
 			type: "sqlite",
 			database: path.join(process.cwd(), "database.db"),
-			// type: "postgres",
-			// url: "postgres://fosscord:wb94SmuURM2Syv&@localhost/fosscord",
-			//
 			entities: Object.values(Models).filter((x) => x.constructor.name !== "Object"),
 			synchronize: true,
 			logging: false,
