@@ -1,48 +1,53 @@
 [
-    {
-        "name":"fosscord.com",
-        "url":"https://app.fosscord.com",
-        "description":"The offical Fosscord instance",
-        "official":true
-    },
-    {
-        "name": "Stilic on Fosscord",
-        "url": "https://fosscord.stilic.ynh.fr",
-        "description": "The official instance of Stilic",
-        "image": "https://github.com/stilic.png"
-    },
-    {
-        "name": "BanTheNons",
-        "url": "https://discord.banthenons.com",
-        "description": "Instance of BanTheNons"
-    },
-    {
-        "name": "FuflyPaladium",
-        "url": "http://discord.fufly.xyz",
-        "description": "Instance of FuflyPaladium"
-    },
-    {
-        "name": "Chris Chrome's Fosscord",
-        "url": "https://fc.home.chrischromeyt.com",
-        "description": "Instance of Chris Chrome",
-        "image": "https://github.com/ChrisChrome.png"
-    },
-    {
-	"name": "TheArcaneBrony",
-        "url": "https://fosscord.thearcanebrony.net",
-        "description": "Instance of TheArcaneBrony",
-	"image": "https://github.com/TheArcaneBrony.png"
-    },
-    {
-	"name": "Rednd's Fosscord Instance",
-	"url": "https://fosscord.anonchan.tk",
-	"description": "An Official Instance of Rednd",
-	"image": "https://github.com/Rednd.png"
-    },
-    {
-	"name": "Nostalgicord",
-	"url": "https://fc.nostalgicord.featyre.xyz/",
-	"description": "Nostalgicord's official Fosscord instance",
-	"image": "https://github.com/Nostalgicord.png"
-    }
+	{
+		"name": "fosscord.com",
+		"url": "https://app.fosscord.com",
+		"description": "The offical Fosscord instance",
+		"official": true
+	},
+	{
+		"name": "Stilic on Fosscord",
+		"url": "https://fosscord.stilic.ynh.fr",
+		"description": "The official instance of Stilic",
+		"image": "https://github.com/stilic.png"
+	},
+	{
+		"name": "BanTheNons",
+		"url": "https://discord.banthenons.com",
+		"description": "Instance of BanTheNons"
+	},
+	{
+		"name": "FuflyPaladium",
+		"url": "http://discord.fufly.xyz",
+		"description": "Instance of FuflyPaladium"
+	},
+	{
+		"name": "Chris Chrome's Fosscord",
+		"url": "https://fc.home.chrischromeyt.com",
+		"description": "Instance of Chris Chrome",
+		"image": "https://github.com/ChrisChrome.png"
+	},
+	{
+		"name": "TheArcaneBrony",
+		"url": "https://fosscord.thearcanebrony.net",
+		"description": "Instance of TheArcaneBrony",
+		"image": "https://github.com/TheArcaneBrony.png"
+	},
+	{
+		"name": "Rednd's Fosscord Instance",
+		"url": "https://fosscord.anonchan.tk",
+		"description": "An Official Instance of Rednd",
+		"image": "https://github.com/Rednd.png"
+	},
+	{
+		"name": "DairyWeb3638077's Fosscord",
+		"url": "http://nighthowler.tk",
+		"description": "Instance of DairyWeb3638077"
+	},
+	{
+		"name": "Nostalgicord",
+		"url": "https://fc.nostalgicord.featyre.xyz/",
+		"description": "Nostalgicord's official Fosscord instance",
+		"image": "https://github.com/Nostalgicord.png"
+	}
 ]
