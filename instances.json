@@ -49,5 +49,10 @@
 		"url": "https://fc.nostalgicord.featyre.xyz/",
 		"description": "Nostalgicord's official Fosscord instance",
 		"image": "https://github.com/Nostalgicord.png"
+	},
+	{
+		"name": "Aru Moon's instance",
+		"url": "https://cord.arumoon.ru/",
+		"description": "Just a Fosscord instance"
 	}
 ]
