@@ -22,12 +22,6 @@
 		"description": "Instance of FuflyPaladium"
 	},
 	{
-		"name": "Chris Chrome's Fosscord",
-		"url": "https://fc.home.chrischromeyt.com",
-		"description": "Instance of Chris Chrome",
-		"image": "https://github.com/ChrisChrome.png"
-	},
-	{
 		"name": "TheArcaneBrony",
 		"url": "https://fosscord.thearcanebrony.net",
 		"description": "Instance of TheArcaneBrony",
