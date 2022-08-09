@@ -6,6 +6,12 @@
 		"official": true
 	},
 	{
+		"name": "Fosscord Staging",
+		"url": "https://fosscord-staging.thearcanebrony.net",
+		"description": "Official testing instance",
+		"official": true
+	},
+	{
 		"name": "TheArcaneBrony",
 		"url": "https://fosscord.thearcanebrony.net",
 		"description": "Instance of TheArcaneBrony",
