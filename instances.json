@@ -34,5 +34,11 @@
 		"url": "https://fosscord.greysilly7.xyz",
 		"description": "The best fosscord instance with 24/7 uptime, running under a ZFS Raid running on good branches :)",
 		"image": "https://github.com/greysilly7.png"
-	}
+	},
+	{
+	    "name": "N3RDP0RT4L HQ [FTC]",
+	    "url": "http://n3rdp0rt4l.duckdns.org:3003/app",
+	    "description": "The Offical N3RDP0RT4L HQ Fosscord Instance Mostly for My gitlab/github projects but other uses by others is also openly accepted. (Up as Much as Possible.)",
+	    "image": "https://n3rdp0rt4l.gitlab.io/n3rdp0rt4l/Finder.Red.png",
+ 	}
 ]
