@@ -40,5 +40,11 @@
     "url": "http://n3rdp0rt4l.duckdns.org:3003/app",
     "description": "The Offical N3RDP0RT4L HQ Fosscord Instance Mostly for My gitlab/github projects but other uses by others is also openly accepted. (Up as Much as Possible.)",
     "image": "https://n3rdp0rt4l.gitlab.io/n3rdp0rt4l/Finder.Red.png"
+  },
+  {
+    "name:": "WaterTalk",
+    "url": "https://watertalk.xyz/",
+    "description": "Regular un-modified discord instance. 24/7 uptime and maintained.",
+    "image": "https://cdn.discordapp.com/attachments/1008235103878651945/1008374999037517844/Untitled27_20220813161120.png"
   }
 ]
