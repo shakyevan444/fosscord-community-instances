@@ -1,44 +1,44 @@
 [
-	{
-		"name": "fosscord.com",
-		"url": "https://app.fosscord.com",
-		"description": "The offical Fosscord instance",
-		"official": true
-	},
-	{
-		"name": "Fosscord Staging",
-		"url": "https://fosscord-staging.thearcanebrony.net",
-		"description": "Official testing instance",
-		"official": true
-	},
-	{
-		"name": "TheArcaneBrony",
-		"url": "https://fosscord.thearcanebrony.net",
-		"description": "Instance of TheArcaneBrony",
-		"image": "https://github.com/TheArcaneBrony.png"
-	},
-	{
-		"name": "Freecord",
-		"url": "https://app.freecord.ir",
-		"description": "24/7 Maintained instance! Friendly user base and a chill place for communities to hangout!",
-		"image": "https://app.freecord.ir/attachments/999056299851354570/1005872496237210448/freecord.png"
-	},
-	{
-		"name": "Slowcord",
-		"url": "https://slowcord.maddy.k.vu/",
-		"description": "MaddyUnderStars' development instance. 24/7 uptime, data persistence, with many new and not yet merged features.",
-		"image": "https://slowcord.maddy.k.vu/attachments/992786774428320167/1005292082573796165/Ducky.jpg"
-	},
-	{
-		"name": "Greysilly7",
-		"url": "https://fosscord.greysilly7.xyz",
-		"description": "The best fosscord instance with 24/7 uptime, running under a ZFS Raid running on good branches :)",
-		"image": "https://github.com/greysilly7.png"
-	},
-	{
-	    "name": "N3RDP0RT4L HQ [FTC]",
-	    "url": "http://n3rdp0rt4l.duckdns.org:3003/app",
-	    "description": "The Offical N3RDP0RT4L HQ Fosscord Instance Mostly for My gitlab/github projects but other uses by others is also openly accepted. (Up as Much as Possible.)",
-	    "image": "https://n3rdp0rt4l.gitlab.io/n3rdp0rt4l/Finder.Red.png",
- 	}
+  {
+    "name": "fosscord.com",
+    "url": "https://app.fosscord.com",
+    "description": "The offical Fosscord instance",
+    "official": true
+  },
+  {
+    "name": "Fosscord Staging",
+    "url": "https://fosscord-staging.thearcanebrony.net",
+    "description": "Official testing instance",
+    "official": true
+  },
+  {
+    "name": "TheArcaneBrony",
+    "url": "https://fosscord.thearcanebrony.net",
+    "description": "Instance of TheArcaneBrony",
+    "image": "https://github.com/TheArcaneBrony.png"
+  },
+  {
+    "name": "Freecord",
+    "url": "https://app.freecord.ir",
+    "description": "24/7 Maintained instance! Friendly user base and a chill place for communities to hangout!",
+    "image": "https://app.freecord.ir/attachments/999056299851354570/1005872496237210448/freecord.png"
+  },
+  {
+    "name": "Slowcord",
+    "url": "https://slowcord.maddy.k.vu/",
+    "description": "MaddyUnderStars' development instance. 24/7 uptime, data persistence, with many new and not yet merged features.",
+    "image": "https://slowcord.maddy.k.vu/attachments/992786774428320167/1005292082573796165/Ducky.jpg"
+  },
+  {
+    "name": "Greysilly7",
+    "url": "https://fosscord.greysilly7.xyz",
+    "description": "The best fosscord instance with 24/7 uptime, running under a ZFS Raid running on good branches :)",
+    "image": "https://github.com/greysilly7.png"
+  },
+  {
+    "name": "N3RDP0RT4L HQ [FTC]",
+    "url": "http://n3rdp0rt4l.duckdns.org:3003/app",
+    "description": "The Offical N3RDP0RT4L HQ Fosscord Instance Mostly for My gitlab/github projects but other uses by others is also openly accepted. (Up as Much as Possible.)",
+    "image": "https://n3rdp0rt4l.gitlab.io/n3rdp0rt4l/Finder.Red.png"
+  }
 ]
