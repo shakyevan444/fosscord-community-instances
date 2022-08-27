@@ -7,7 +7,7 @@
 	},
 	{
 		"name": "Fosscord Staging",
-		"url": "https://staging.fosscord-com",
+		"url": "https://staging.fosscord.com",
 		"description": "Official testing instance",
 		"official": true
 	},
