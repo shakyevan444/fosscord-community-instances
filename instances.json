@@ -7,7 +7,7 @@
 	},
 	{
 		"name": "Fosscord Staging",
-		"url": "https://fosscord-staging.thearcanebrony.net",
+		"url": "https://staging.fosscord-com",
 		"description": "Official testing instance",
 		"official": true
 	},
@@ -25,7 +25,7 @@
 	},
 	{
 		"name": "Slowcord",
-		"url": "https://slowcord.maddy.k.vu/",
+		"url": "https://slowcord.understars.dev",
 		"description": "MaddyUnderStars' development instance. 24/7 uptime, data persistence, with many new and not yet merged features.",
 		"image": "https://slowcord.maddy.k.vu/attachments/992786774428320167/1005292082573796165/Ducky.jpg"
 	},
@@ -37,7 +37,7 @@
 	},
 	{
 		"name": "N3RDP0RT4L HQ [FTC]",
-		"url": "http://n3rdp0rt4l.duckdns.org:3003/app",
+		"url": "http://n3rdp0rt4l.duckdns.org:3003",
 		"description": "The Offical N3RDP0RT4L HQ Fosscord Instance Mostly for My gitlab/github projects but other uses by others is also openly accepted. (Up as Much as Possible.)",
 		"image": "https://n3rdp0rt4l.gitlab.io/n3rdp0rt4l/Finder.Red.png"
 	},
